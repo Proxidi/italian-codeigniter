@@ -1,0 +1,49 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2026-09-28 15:23:53 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library 'xmlreader' (tried: /usr/lib/php74/modules/xmlreader (/usr/lib/php74/modules/xmlreader: cannot open shared object file: No such file or directory), /usr/lib/php74/modules/xmlreader.so (/usr/lib/php74/modules/xmlreader.so: cannot open shared object file: No such file or directory)) Unknown 0
+ERROR - 2026-09-28 15:24:06 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library 'xmlreader' (tried: /usr/lib/php74/modules/xmlreader (/usr/lib/php74/modules/xmlreader: cannot open shared object file: No such file or directory), /usr/lib/php74/modules/xmlreader.so (/usr/lib/php74/modules/xmlreader.so: cannot open shared object file: No such file or directory)) Unknown 0
+ERROR - 2026-09-28 15:24:59 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library 'xmlreader' (tried: /usr/lib/php74/modules/xmlreader (/usr/lib/php74/modules/xmlreader: cannot open shared object file: No such file or directory), /usr/lib/php74/modules/xmlreader.so (/usr/lib/php74/modules/xmlreader.so: cannot open shared object file: No such file or directory)) Unknown 0
+ERROR - 2026-09-28 15:25:09 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library 'xmlreader' (tried: /usr/lib/php74/modules/xmlreader (/usr/lib/php74/modules/xmlreader: cannot open shared object file: No such file or directory), /usr/lib/php74/modules/xmlreader.so (/usr/lib/php74/modules/xmlreader.so: cannot open shared object file: No such file or directory)) Unknown 0
+ERROR - 2026-09-28 21:43:00 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library 'xmlreader' (tried: /usr/lib/php74/modules/xmlreader (/usr/lib/php74/modules/xmlreader: cannot open shared object file: No such file or directory), /usr/lib/php74/modules/xmlreader.so (/usr/lib/php74/modules/xmlreader.so: cannot open shared object file: No such file or directory)) Unknown 0
+ERROR - 2026-09-28 21:43:30 --> Severity: Notice --> Undefined variable: lunesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 98
+ERROR - 2026-09-28 21:43:30 --> Severity: Notice --> Undefined variable: martesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 99
+ERROR - 2026-09-28 21:43:30 --> Severity: Notice --> Undefined variable: miercolesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 100
+ERROR - 2026-09-28 21:43:30 --> Severity: Notice --> Undefined variable: juevesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 101
+ERROR - 2026-09-28 21:43:30 --> Severity: Notice --> Undefined variable: viernesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 102
+ERROR - 2026-09-28 21:43:30 --> Severity: Notice --> Undefined variable: sabadoE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 103
+ERROR - 2026-09-28 21:43:30 --> Severity: Notice --> Undefined variable: domingoE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 104
+ERROR - 2026-09-28 21:43:30 --> Severity: Notice --> Undefined variable: roles /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 531
+ERROR - 2026-09-28 21:43:30 --> Severity: Warning --> Invalid argument supplied for foreach() /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 531
+ERROR - 2026-09-28 21:43:47 --> Severity: Notice --> Undefined variable: lunesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 98
+ERROR - 2026-09-28 21:43:47 --> Severity: Notice --> Undefined variable: martesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 99
+ERROR - 2026-09-28 21:43:47 --> Severity: Notice --> Undefined variable: miercolesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 100
+ERROR - 2026-09-28 21:43:47 --> Severity: Notice --> Undefined variable: juevesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 101
+ERROR - 2026-09-28 21:43:47 --> Severity: Notice --> Undefined variable: viernesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 102
+ERROR - 2026-09-28 21:43:47 --> Severity: Notice --> Undefined variable: sabadoE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 103
+ERROR - 2026-09-28 21:43:47 --> Severity: Notice --> Undefined variable: domingoE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 104
+ERROR - 2026-09-28 21:43:47 --> Severity: Notice --> Undefined variable: roles /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 531
+ERROR - 2026-09-28 21:43:47 --> Severity: Warning --> Invalid argument supplied for foreach() /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 531
+ERROR - 2026-09-28 21:47:38 --> Severity: Notice --> Undefined variable: lunesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 98
+ERROR - 2026-09-28 21:47:38 --> Severity: Notice --> Undefined variable: martesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 99
+ERROR - 2026-09-28 21:47:38 --> Severity: Notice --> Undefined variable: miercolesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 100
+ERROR - 2026-09-28 21:47:38 --> Severity: Notice --> Undefined variable: juevesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 101
+ERROR - 2026-09-28 21:47:38 --> Severity: Notice --> Undefined variable: viernesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 102
+ERROR - 2026-09-28 21:47:38 --> Severity: Notice --> Undefined variable: sabadoE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 103
+ERROR - 2026-09-28 21:47:38 --> Severity: Notice --> Undefined variable: domingoE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 104
+ERROR - 2026-09-28 21:47:38 --> Severity: Notice --> Undefined variable: roles /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 531
+ERROR - 2026-09-28 21:47:38 --> Severity: Warning --> Invalid argument supplied for foreach() /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 531
+ERROR - 2026-09-28 21:48:57 --> Severity: Notice --> Undefined variable: lunesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 98
+ERROR - 2026-09-28 21:48:57 --> Severity: Notice --> Undefined variable: martesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 99
+ERROR - 2026-09-28 21:48:57 --> Severity: Notice --> Undefined variable: miercolesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 100
+ERROR - 2026-09-28 21:48:57 --> Severity: Notice --> Undefined variable: juevesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 101
+ERROR - 2026-09-28 21:48:57 --> Severity: Notice --> Undefined variable: viernesE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 102
+ERROR - 2026-09-28 21:48:57 --> Severity: Notice --> Undefined variable: sabadoE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 103
+ERROR - 2026-09-28 21:48:57 --> Severity: Notice --> Undefined variable: domingoE /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 104
+ERROR - 2026-09-28 21:48:57 --> Severity: Notice --> Undefined variable: roles /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 531
+ERROR - 2026-09-28 21:48:57 --> Severity: Warning --> Invalid argument supplied for foreach() /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 531
+ERROR - 2026-09-28 22:04:14 --> Severity: Notice --> Undefined variable: roles /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 504
+ERROR - 2026-09-28 22:04:14 --> Severity: Warning --> Invalid argument supplied for foreach() /srv/http/italian/application/views/administrador/nominas/correccion_roles.php 504
+ERROR - 2026-09-28 22:25:00 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library 'xmlreader' (tried: /usr/lib/php74/modules/xmlreader (/usr/lib/php74/modules/xmlreader: cannot open shared object file: No such file or directory), /usr/lib/php74/modules/xmlreader.so (/usr/lib/php74/modules/xmlreader.so: cannot open shared object file: No such file or directory)) Unknown 0
+ERROR - 2026-09-28 22:25:16 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library 'xmlreader' (tried: /usr/lib/php74/modules/xmlreader (/usr/lib/php74/modules/xmlreader: cannot open shared object file: No such file or directory), /usr/lib/php74/modules/xmlreader.so (/usr/lib/php74/modules/xmlreader.so: cannot open shared object file: No such file or directory)) Unknown 0
+ERROR - 2026-09-28 22:26:17 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library 'xmlreader' (tried: /usr/lib/php74/modules/xmlreader (/usr/lib/php74/modules/xmlreader: cannot open shared object file: No such file or directory), /usr/lib/php74/modules/xmlreader.so (/usr/lib/php74/modules/xmlreader.so: cannot open shared object file: No such file or directory)) Unknown 0
+ERROR - 2026-09-28 22:26:28 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library 'xmlreader' (tried: /usr/lib/php74/modules/xmlreader (/usr/lib/php74/modules/xmlreader: cannot open shared object file: No such file or directory), /usr/lib/php74/modules/xmlreader.so (/usr/lib/php74/modules/xmlreader.so: cannot open shared object file: No such file or directory)) Unknown 0
